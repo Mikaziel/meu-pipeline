@@ -9,3 +9,5 @@ coverage.xml
 htmlcov/
 .env
 .DS_Store
+.coverage
+coverage_html/
