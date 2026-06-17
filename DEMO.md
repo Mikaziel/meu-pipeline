@@ -1,0 +1,2 @@
+
+Demonstração em sala - 17/06/2026 17:31
